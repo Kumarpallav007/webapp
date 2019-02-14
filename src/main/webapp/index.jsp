@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Jenkins Sikhega Madharjaat Aaj To Sikha Hi Dega</h2>
       
-<center><img src="http://www.techmarshals.com/wp-content/uploads/2017/08/Tech-Marshals.jpg" width=50% hight=50%>
+<center><img src="C:\Users\palla\Pictures\Camera Roll\sexy.jpg" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
